@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(235, 233, 233);
+    text-align: center;
+}
+
+form{
+    margin: auto;
+    max-width: 400px;
+    box-shadow: 7px 7px 5px 5px rgb(80, 78, 78);
+    border-radius: 6px;
+}
+
+button{
+    margin: 10px;
+    border-radius: 5px;
+    background-color: magenta;
+    font-size: 16px;
+}
+
+button:hover{
+    background-color: rgb(200, 54, 200);
+    cursor: pointer;
+    transition: 200ms all ease-in-out;
+}
